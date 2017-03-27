@@ -1,4 +1,4 @@
-baseurl = "http://pirxthepilot.github.io/"
+baseurl = "https://pirxthepilot.github.io/"
 title = "pirxthepilot"
 languageCode = "en-us"
 #disqusShortname = "your_disqus_shortname" # Optional, enable Disqus integration
@@ -28,7 +28,7 @@ paginate = 4
     truncate = false
 
     # Used when a given page doesn't set its own.
-    defaultDescription = "Weekly projects in music, electronics, and coding"
+    defaultDescription = "Explorations in music, electronics, and coding"
     defaultKeywords = "modulogeek, music, electronics, coding, diy"
 
     # Hide estimated reading time for posts.
@@ -49,7 +49,7 @@ paginate = 4
 
     # Displays under the author name in the sidebar, keep it short.
     # You can use markdown here.
-    tagline = "Weekly projects in music, electronics, and coding"
+    tagline = "Explorations in music, electronics, and coding"
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Blog".
