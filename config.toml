@@ -12,11 +12,11 @@ paginate = 4
 [permalinks]
     # Optional. Change the permalink format for the 'post' content type.
     # The format shown here is the same one Jekyll/Octopress uses by default.
-    post = "/blog/:year/:month/:day/:title/"
+    post = "/blog/:year/:month/:title/"
 
-[taxonomies]
-    # Optional. Use if you want tags and lists.
-    category = "categories"
+#[taxonomies]
+#    # Optional. Use if you want tags and lists.
+#    category = "categories"
 
 #
 # All parameters below here are optional and can be mixed and matched.
