@@ -1,7 +1,7 @@
 baseurl = "https://pirxthepilot.github.io/"
 title = "pirxthepilot"
 languageCode = "en-us"
-#disqusShortname = "your_disqus_shortname" # Optional, enable Disqus integration
+disqusShortname = "pirxthepilot" # Optional, enable Disqus integration
 MetaDataFormat = "toml"
 theme = "hyde-x"
 paginate = 4
