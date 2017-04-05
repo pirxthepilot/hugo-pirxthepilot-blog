@@ -60,14 +60,11 @@ paginate = 4
     gravatarHash = "9e22cc03ea487a146b4fbbb9c460d7c8"
 
     # Sidebar social links, these must be full URLs.
+    instagram = "https://www.instagram.com/pirxthepilot"
+    vimeo = "https://vimeo.com/modulogeek"
     github = "https://github.com/pirxthepilot"
-    bitbucket = ""
-    stackOverflow = ""
-    linkedin = ""
-    googleplus = ""
-    facebook = "https://www.facebook.com/modulogeek"
-    twitter = "https://twitter.com/modulogeek"
-    youtube = ""
+    #facebook = "https://www.facebook.com/modulogeek"
+    twitter = "https://twitter.com/pirxthepilot"
 
     # Other social-like sidebar links
     rss = true  # switch to true to enable RSS icon link
