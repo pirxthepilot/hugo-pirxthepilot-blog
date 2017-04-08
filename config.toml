@@ -60,9 +60,9 @@ paginate = 4
     gravatarHash = "9e22cc03ea487a146b4fbbb9c460d7c8"
 
     # Sidebar social links, these must be full URLs.
-    instagram = "https://www.instagram.com/pirxthepilot"
-    vimeo = "https://vimeo.com/channels/pirxthepilot"
     github = "https://github.com/pirxthepilot"
+    vimeo = "https://vimeo.com/channels/pirxthepilot"
+    instagram = "https://www.instagram.com/pirxthepilot"
     #facebook = "https://www.facebook.com/modulogeek"
     twitter = "https://twitter.com/pirxthepilot"
 
