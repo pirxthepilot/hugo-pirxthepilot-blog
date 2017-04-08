@@ -61,7 +61,7 @@ paginate = 4
 
     # Sidebar social links, these must be full URLs.
     instagram = "https://www.instagram.com/pirxthepilot"
-    vimeo = "https://vimeo.com/modulogeek"
+    vimeo = "https://vimeo.com/channels/pirxthepilot"
     github = "https://github.com/pirxthepilot"
     #facebook = "https://www.facebook.com/modulogeek"
     twitter = "https://twitter.com/pirxthepilot"
