@@ -6,7 +6,7 @@ description = ""
 title = "Week 23: Modular Jam"
 
 +++
-I spent too much time working on this track. Exploring the new module, the [Morphagene](http://www.makenoisemusic.com/modules/morphagene) took almost a week. The rest of the patch came together in a day or two, while several more days were spent pondering on the right take to use, mastering things, listening and re-listening.
+I spent too much time working on this track. Exploring the new module, the [Morphagene](http://www.makenoisemusic.com/modules/morphagene), took almost a week. The rest of the patch came together in a day or two, while several more days were spent pondering on the right take to use, mastering things, listening and re-listening.
 
 Reminder: I shouldn't spend too much time one one thing.
 
